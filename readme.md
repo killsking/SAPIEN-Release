@@ -3,7 +3,7 @@ SAPIEN is a realistic and physics-rich simulated environment that hosts a
 large-scale set for articulated objects. It enables various robotic vision and
 interaction tasks that require detailed part-level understanding. SAPIEN is a
 collaborative effort between researchers at UCSD, Stanford and SFU. The dataset
-is a continuation of ShapNet and PartNet.
+is a continuation of ShapeNet and PartNet.
 
 ## SAPIEN Engine
 SAPIEN Engine provides physical simulation for articulated objects. It powers
