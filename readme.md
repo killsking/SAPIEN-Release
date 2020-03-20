@@ -42,7 +42,7 @@ make
 If you use SAPIEN and its assets, please cite the following works.
 ```
 @InProceedings{Xiang_2020_SAPIEN,
-author = {Xiang, Fanbo and Qin, Yuzhe and Mo, Kaichun and Xia, Yikuan and Zhu, Hao and Liu, Fangchen and Liu, Minghua and Jiang, Hanxiao and Yuan, Yifu and Wang, He and Yi, Li and Chang, X. Angel and Guibas, J. Leonidas and Su, Hao},
+author = {Xiang, Fanbo and Qin, Yuzhe and Mo, Kaichun and Xia, Yikuan and Zhu, Hao and Liu, Fangchen and Liu, Minghua and Jiang, Hanxiao and Yuan, Yifu and Wang, He and Yi, Li and Chang, Angel X. and Guibas, Leonidas J. and Su, Hao},
 title = {{SAPIEN}: A SimulAted Part-based Interactive ENvironment},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 month = {June},
