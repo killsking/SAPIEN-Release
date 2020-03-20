@@ -39,6 +39,7 @@ cmake -DCMake_BUILD_TYPE=Release ..
 make
 ```
 ## Cite SAPIEN
+If you use SAPIEN and its assets, please cite the following works.
 ```
 @InProceedings{Xiang_2020_SAPIEN,
 author = {Xiang, Fanbo and Qin, Yuzhe and Mo, Kaichun and Xia, Yikuan and Zhu, Hao and Liu, Fangchen and Liu, Minghua and Jiang, Hanxiao and Yuan, Yifu and Wang, He and Yi, Li and Chang, X. Angel and Guibas, J. Leonidas and Su, Hao},
@@ -46,4 +47,21 @@ title = {{SAPIEN}: A SimulAted Part-based Interactive ENvironment},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 month = {June},
 year = {2020}}
+```
+```
+@InProceedings{Mo_2019_CVPR,
+author = {Mo, Kaichun and Zhu, Shilin and Chang, Angel X. and Yi, Li and Tripathi, Subarna and Guibas, Leonidas J. and Su, Hao},
+title = {{PartNet}: A Large-Scale Benchmark for Fine-Grained and Hierarchical Part-Level {3D} Object Understanding},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}
+```
+```
+@article{chang2015shapenet,
+title={Shapenet: An information-rich 3d model repository},
+author={Chang, Angel X and Funkhouser, Thomas and Guibas, Leonidas and Hanrahan, Pat and Huang, Qixing and Li, Zimo and Savarese, Silvio and Savva, Manolis and Song, Shuran and Su, Hao and others},
+journal={arXiv preprint arXiv:1512.03012},
+year={2015}
+}
 ```
